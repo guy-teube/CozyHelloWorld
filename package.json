@@ -4,5 +4,10 @@
   "cozy-displayName": "Hello World",
   "version": "1.0.0",
   "description": "Mon Cozy Hello World",
-  "icon-path": "main_icon.png"
+  "icon-path": "main_icon.png",
+  "cozy-permissions": {
+    "contact": {
+      "description": "To find a contact when talking about someone"
+    }
+  }
 }
