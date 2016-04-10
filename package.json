@@ -1,0 +1,8 @@
+{
+  "name": "HelloWorld",
+  "cozy-type": "static",
+  "cozy-displayName": "Hello World",
+  "version": "1.0.0",
+  "description": "Mon Cozy Hello World",
+  "icon-path": "main_icon.png"
+}
